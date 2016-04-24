@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\SunnyB\Desktop\Sunshine\Background-Timelapse-master1\app\commons-logging-1.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="C:\Users\SunnyB\Desktop\Sunshine\Background-Timelapse-master1\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-logging-1.2_a427d80a8df631dbfd85fc6b533dc83917541312\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SunnyB\Desktop\Sunshine\Background-Timelapse-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\SunnyB\Desktop\Sunshine\Background-Timelapse-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_6f6be650c54121b63bb11a39ea444cad87436d51\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SunnyB\Desktop\Sunshine\Background-Timelapse-master1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fde51af2f26ad38769b87117353acb20736e7a3e">
+        <dex dex="C:\Users\SunnyB\Desktop\Sunshine\Background-Timelapse-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_077d4d0709f0d7b61bcd68050599a8a0109feaf8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SunnyB\Desktop\Sunshine\Background-Timelapse-master1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\SunnyB\Desktop\Sunshine\Background-Timelapse-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_8ebb7cdcb1dd21b1d89f946fe11287f699ab5fe7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SunnyB\Desktop\Sunshine\Background-Timelapse-master1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cb9964de78ee771f60577219b387df4238548da6">
+        <dex dex="C:\Users\SunnyB\Desktop\Sunshine\Background-Timelapse-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c354b0bc49b4ae573e4908600521edb334d9f845\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SunnyB\Desktop\Sunshine\Background-Timelapse-master1\app\gson-2.5.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\SunnyB\Desktop\Sunshine\Background-Timelapse-master1\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.5_f0c3132df4a792c0ec7be42c14c71f327a7e6682\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SunnyB\Desktop\Sunshine\Background-Timelapse-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\SunnyB\Desktop\Sunshine\Background-Timelapse-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_2feace1135544e9c9b269d4b5a7ac600ed55f064\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SunnyB\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\SunnyB\Desktop\Sunshine\Background-Timelapse-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_0474523269665ae23c8ebc70600163c1afcfa788\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SunnyB\Desktop\Sunshine\Background-Timelapse-master1\app\commons-codec-1.9.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="C:\Users\SunnyB\Desktop\Sunshine\Background-Timelapse-master1\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-codec-1.9_fc36bdbfbaae4aba0048084c1698bfd0fc678a39\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SunnyB\Desktop\Sunshine\Background-Timelapse-master1\app\src\main\org.apache.commons.io.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b90b6ac57cf27a2858eaa490d02ba7945d18ca7b">
+        <dex dex="C:\Users\SunnyB\Desktop\Sunshine\Background-Timelapse-master1\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.apache.commons.io_90f7b31106db63c63029e4d8764c46079dd8baee\classes.dex" />
+    </item>
+
+</items>

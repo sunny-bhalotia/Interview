@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "floe.timelapse"
+        minSdkVersion 8
+        targetSdkVersion 15
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+dependencies {
+    compile 'com.android.support:appcompat-v7:21.+'
+    compile files('libs/httpclient-cache-4.5.2.jar')
+    compile files('gson-2.5.jar')
+    compile files('commons-logging-1.2-javadoc.jar')
+    compile files('commons-codec-1.9.jar')
+    compile files('commons-logging-1.2.jar')
+    compile files('src/main/org.apache.commons.io.jar')
+    compile files('httpclient-4.5.2.jar')
+    compile files('httpclient-cache-4.5.2.jar')
+}

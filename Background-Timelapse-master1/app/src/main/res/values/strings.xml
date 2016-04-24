@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Timelapse</string>
+    <string name="subscription_key">31b69f72b76b4d889b6de3346ea12c8a</string>
+
+    <!-- Face subscription key -->
+    <!-- Please refer to http://oxford-portal.azurewebsites.net/doc/general/subscription-key-mgmt to get your subscription key -->
+    <!-- Please note that the Emotion API and Face API have different subscription keys -->
+    <!-- You will need Face subscription key, besides the Emotion subscription keys, for the second part of the sample to work -->
+    <string name="faceSubscription_key">357dc1df404c4ccc85cabe5e6f488bb4</string>
+
+</resources>
